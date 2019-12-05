@@ -1,4 +1,5 @@
-Analysis of credit card fraud data using neural networks.
+## Credit Card Fraud Analysis
+Analysis of credit card fraud data.
 
 ## Dataset
 
